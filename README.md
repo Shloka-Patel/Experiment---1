@@ -5,6 +5,6 @@ Aim -> (A) To print hello world command.
 
 Software -> Visual Studio Code 
 
-Theory -> (A) 
-Output 
+Theory -> (A) <br>
+Output <br>
 ![exp1](https://github.com/Shloka-Patel/Experiment---1/blob/main/Output_1A.png)
