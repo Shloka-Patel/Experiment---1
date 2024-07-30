@@ -20,3 +20,6 @@ Output <br>
 
 (B) <br> 
 ![exp2](https://github.com/Shloka-Patel/Experiment---1/blob/main/Output_1B.png)
+
+Conclusion -> In this experiment, i learnt about C++ programming lnguage, its basic commands and also made a program for calculator.  <br> 
+              
