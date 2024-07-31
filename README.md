@@ -17,12 +17,12 @@ Theory ->  C++ is a high level object-oriented programming language. It is also 
 Code: <br> 
 
 #include<iostream>  
-using namespace std;
-int main()
-{
-    cout<<"HELLO WORLD!";     
-    return 0;
-}
+using namespace std;<br> 
+int main()<br>
+{ <br>
+    cout<<"HELLO WORLD!";     <br>
+    return 0;<br>
+}<br>
 Output <br>
 
 (A) <br> 
