@@ -1,7 +1,6 @@
 # CDS-120-Exp-1
 
-Aim -> (A) To print hello world command. <br>
-       (B) To make a calculator. <br>
+Aim -> Downloading and isntalling VS Code, (Hello World and Calculator Program). <br> 
 
 Software -> Visual Studio Code <br> 
 
