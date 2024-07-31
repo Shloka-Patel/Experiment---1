@@ -3,6 +3,8 @@
 Aim -> (A) To print hello world command. <br>
        (B) To make a calculator. <br>
 
+Software -> Visual Studio Code <br> 
+
 Theory ->  C++ is a high level object-oriented programming language. It is also known as "C with class".<br> 
            It was developed by Bjarne Stroustrup in 1979. <br>
            It  implements all the OOPs concepts. <br>
