@@ -15,14 +15,16 @@ Theory ->  C++ is a high level object-oriented programming language. It is also 
                Syntax: cin>>value_to_be_entered;  <br>
 
 Code: <br> 
-
-'''#include<iostream>  
+```
+#include<iostream>  
 using namespace std;
 int main()
 { 
     cout<<"HELLO WORLD!";     
     return 0;
-}'''
+}
+```
+
 Output <br>
 
 (A) <br> 
