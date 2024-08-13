@@ -1,6 +1,6 @@
 # CDS-120-Exp-1
 
-##Aim 
+## Aim 
 Downloading and isntalling VS Code, (Hello World and Calculator Program). <br> 
 
 Software -> Visual Studio Code <br> 
