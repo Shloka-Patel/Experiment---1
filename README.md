@@ -1,12 +1,12 @@
 # CDS-120-Exp-1
 
-## Aim 
+### Aim 
 Downloading and isntalling VS Code, (Hello World and Calculator Program). <br> 
 
-## Software 
+### Software 
 Visual Studio Code <br> 
 
-# Theory
+### Theory
 C++ is a high level object-oriented programming language. It is also known as "C with class".<br> 
            It was developed by Bjarne Stroustrup in 1979. <br>
            It  implements all the OOPs concepts. <br>
@@ -17,7 +17,7 @@ C++ is a high level object-oriented programming language. It is also known as "C
                To take input from the user, we use "cin" command. <br>
                Syntax: cin>>value_to_be_entered;  <br>
 
-# Code: <br> 
+### Code: <br> 
 ```
 #include<iostream>  
 using namespace std;
@@ -28,7 +28,7 @@ int main()
 }
 ```
 
-# Output <br>
+### Output <br>
 
 (A) <br> 
 ![exp1](https://github.com/Shloka-Patel/Experiment---1/blob/main/Output_1A.png)
@@ -36,6 +36,6 @@ int main()
 (B) <br> 
 ![exp2](https://github.com/Shloka-Patel/Experiment---1/blob/main/Output_1B.png)
 
-# Conclusion 
+### Conclusion 
 In this experiment, I learnt about C++ programming lnguage, its basic commands and also made a program for calculator.  <br> 
               
